@@ -258,9 +258,6 @@ p.spam {
 
 .social-media{
     background:url(../img/social-media-bg1.jpg);
-    width: 200px;
-    height: 300px;
-    object-fit: fill;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
@@ -302,10 +299,15 @@ p.spam {
 
 .footer{
     background-color: rgba(0,0,0,0.89);
+    bottom: 0;
+    
+    position: fixed;
 }
 
 .footer-wrapper{
     padding: 20px 0px;
+    position: fixed !important;
+    bottom: 0 !important;
 }
 
 .copy-right{
