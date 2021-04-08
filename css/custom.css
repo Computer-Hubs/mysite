@@ -327,6 +327,7 @@ p.spam {
 #box {
     border: 1px solid;
     padding: 10px;
- backface-visibility: visible;
+ backface-visibility: hidden;
+ background-color: rgba(0,0,0,0.5);
   }
   
