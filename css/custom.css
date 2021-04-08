@@ -186,6 +186,7 @@ a.title {
 @media (max-width: 565px) {
     .coming {
         font-size: 71px;
+        height: 100%;
     }
 }
 
