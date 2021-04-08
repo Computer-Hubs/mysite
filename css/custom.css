@@ -129,7 +129,7 @@ p{
  */
 
 .header{
-    background-image: url(../img/Awesome_Coming_Soon_Template_BG.jpg);
+    background-image: url(../img/Awesome_Coming_Soon_Template_BG.jpg) no-repeat center fixed;;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
@@ -261,6 +261,7 @@ p.spam {
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
+
 }
 
 .social-media-wrapper{
