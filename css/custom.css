@@ -133,6 +133,7 @@ p{
     background-position: center;
     background-attachment: fixed !important;
     background-size: cover;
+    max-width: 100%;
 }
 
 
