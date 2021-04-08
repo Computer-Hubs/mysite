@@ -168,26 +168,56 @@ a.title {
 
 .coming{
     font-size: 90px;
-    color: rgb(243, 242, 242);
+    color: #fff;
     text-transform: uppercase;
     font-family: 'Roboto Condensed', sans-serif;
     letter-spacing: 1px;
-    word-spacing: 2px;
+    word-spacing: 5px;
     font-weight: 300;
 }
 /* ------------------------------  for responsiveness ------------------------------------- */
-@media (max-width: 500px) {
+@media (max-width: 565px) {
     .coming {
-        font-size: 50px;
+        font-size: 71px;
     }
 }
 
 @media (max-width: 500px) {
     .coming {
-        font-size: 30px;
+        font-size: 48px;
     }
 }
 
+
+/* ===================================    1.2 Timer      ================================== */
+
+.day, .hr, .min, .sec{
+    border-right: 1px dotted #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #fff;
+    font-size: 40px;
+    background-color: rgba(31, 58, 66, 0.7);
+    text-shadow: -2px 3px #000;
+}
+.day{
+    border-left: 1px dotted #fff;
+}
+.counter1{
+    border-top: 1px dotted #fff;
+}
+
+.counter2{
+    border-bottom: 1px dotted #fff;
+    margin-bottom: 100px;
+}
+
+.counter1, .counter2
+{
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
 
 /* =============================================
                  2. News-letter
@@ -279,7 +309,6 @@ p.spam {
 
 .copy-right{
     color: #fff;
-    width: auto;
 }
 
 .develop{
