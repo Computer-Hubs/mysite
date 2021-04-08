@@ -258,6 +258,9 @@ p.spam {
 
 .social-media{
     background:url(../img/social-media-bg1.jpg);
+    width: 200px;
+    height: 300px;
+    object-fit: fill;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
