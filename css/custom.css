@@ -168,8 +168,9 @@ a.title {
     color: #fff;
     text-transform: capitalize;
     text-align: center;
-    padding-left: 150px;
-    padding-right: 150px;
+    margin-bottom: 18px;
+    padding: 0;
+
 }
 
 .coming{
@@ -323,3 +324,9 @@ p.spam {
 .develop a {
     color: cadetblue;
 }
+#box {
+    border: 1px solid;
+    padding: 10px;
+ backface-visibility: visible;
+  }
+  
