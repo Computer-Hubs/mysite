@@ -300,6 +300,7 @@ p.spam {
 .footer{
     background-color: rgba(0,0,0,0.89);
     bottom: 0;
+    position: absolute;
 }
 
 .footer-wrapper{
