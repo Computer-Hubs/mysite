@@ -174,13 +174,13 @@ a.title {
 }
 
 .coming{
-    font-size: 90px;
+    font-size: 50px;
     color: #fff;
     text-transform: uppercase;
     font-family: 'Roboto Condensed', sans-serif;
     letter-spacing: 1px;
     word-spacing: 5px;
-    font-weight: 300;
+    font-weight: 500;
 }
 /* ------------------------------  for responsiveness ------------------------------------- */
 @media (max-width: 565px) {
