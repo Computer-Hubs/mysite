@@ -168,11 +168,11 @@ a.title {
 
 .coming{
     font-size: 90px;
-    color: rgb(192, 238, 25);
+    color: rgb(243, 242, 242);
     text-transform: uppercase;
     font-family: 'Roboto Condensed', sans-serif;
     letter-spacing: 1px;
-    word-spacing: 5px;
+    word-spacing: 2px;
     font-weight: 300;
 }
 /* ------------------------------  for responsiveness ------------------------------------- */
