@@ -154,8 +154,11 @@ a.title {
 }
 
 .header-text{
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     margin-top: 40px;
+    text-align: center;
+   
+
 }
 
 .service-text{
@@ -164,6 +167,9 @@ a.title {
     font-weight: 300;
     color: #fff;
     text-transform: capitalize;
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
 }
 
 .coming{
