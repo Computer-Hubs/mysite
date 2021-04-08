@@ -325,9 +325,11 @@ p.spam {
     color: cadetblue;
 }
 #box {
-    border-radius: 5px;
+    border-radius: 30px;
     padding: 10px;
  backface-visibility: hidden;
  background-color: rgba(0,0,0,0.5);
   }
-  
+  a{
+      color: lavenderblush !important;
+  }
